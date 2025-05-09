@@ -74,7 +74,7 @@ export default function Ai() {
               ✖
             </button>
           </div>
-          <div className={styles.chatContainer}>
+          <div>
             <div className={styles.messages}>
               {messages.map((msg, index) => (
                 <div
@@ -85,8 +85,8 @@ export default function Ai() {
                 </div>
               ))}
               {loading && (
-                <div className={styles.aiBubble}>
-                  <div className={styles.loadingDots}>
+                <div>
+                  <div>
                     <span>.</span>
                     <span>.</span>
                     <span>.</span>
