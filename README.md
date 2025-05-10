@@ -147,7 +147,7 @@ Want to run this locally? Here’s how:
 
 ## Screenshots
 - Login Page: `![Login Page](./screenshots/LoginPage.png)`
-- Homepage(Orginal Site): `![Home Page Original](/screenshots/homePage1.png)`
+- Homepage(Orginal Site): `![Home Page Original](src/app/screenshots/homePage1.png)`
 - Homepage(Demo Site): `![Home Page Demo](./screenshots/homePage2.png)`
 - Ciao AI Chatbot: `![AI Chatbot](./screenshots/AI.png)`
 - Contact Page: `![Contact Page](/screenshots/contactForm.png)`
