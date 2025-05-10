@@ -148,5 +148,3 @@ Want to run this locally? Here’s how:
 - Thanks to the SRU Coding Club community for inspiration and support.
 - Shoutout to Firebase and Next.js for making development a breeze.
 - Built with ❤️ by Rishik for SRU Coding Club.
-
----
