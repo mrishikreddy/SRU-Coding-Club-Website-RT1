@@ -1,1 +1,0 @@
-### SRU Coding CLub Readme
