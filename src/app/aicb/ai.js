@@ -18,7 +18,7 @@ export default function Ai() {
       setMessages((prevMessages) => [...prevMessages, userMessage]);
 
       const currentInput = inputText;
-      setInputText(""); // Clear immediately
+      setInputText(""); 
       setLoading(true);
 
       try {
@@ -45,7 +45,7 @@ export default function Ai() {
 
   const handleKeyDown = (e) => {
     if (e.key === "Enter" && !e.shiftKey) {
-      e.preventDefault(); // Prevent newline
+      e.preventDefault(); 
       handleSend();
     }
   };
@@ -58,12 +58,10 @@ export default function Ai() {
 
   return (
     <div>
-      {/* Floating Button */}
       <button className={styles.chatButton} onClick={toggleAiBox} aria-label="Toggle AI Chat">
         AI
       </button>
 
-      {/* AI Chatbox */}
       {showAiBox && (
         <div className={styles.aiBox} id="ai-box" role="dialog" aria-labelledby="ai-chat-title">
           <div className={styles.aiTitle}>
