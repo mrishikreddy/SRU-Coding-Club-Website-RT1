@@ -146,11 +146,11 @@ Want to run this locally? Here’s how:
 **Heads up**: Some code has been intentionally removed from this repo for security and copyright reasons. This version is here to showcase how the SRU Coding Club operates. For the full codebase, contact me (Rishik) via email or the contact form!
 
 ## Screenshots
-- Login Page: `![Homepage](screenshots/homepage1.png)`
-- Homepage(Orginal Site): `![Homepage](screenshots/homepage1.png)`
-- Homepage(Demo Site): `![Homepage](screenshots/homepage1.png)`
-- Ciao AI Chatbot: `![Chatbot](screenshots/AIchatbot.png)`
-- Contact Page: `![Contact Page](screenshots/contactPage.png)`
+- Login Page: `![Homepage](screenshots/LoginPage.png)`
+- Homepage(Orginal Site): `![Homepage](screenshots/homePage1.png)`
+- Homepage(Demo Site): `![Homepage](screenshots/homePage2.png)`
+- Ciao AI Chatbot: `![Chatbot](screenshots/AI.png)`
+- Contact Page: `![Contact Page](screenshots/contactForm.png)`
 
 ## Acknowledgments
 - Thanks to the SRU Coding Club community for inspiration and support.
