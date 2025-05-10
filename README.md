@@ -19,7 +19,7 @@ The SRU Coding Club Website is a dynamic platform created to connect students, h
 - **Scalability**: Handles 10,000+ users and 30,000 concurrent connections, onboarding 500+ users in its first week.
 - **Speed**: Achieves load times under 200ms with optimized Firestore reads and localStorage caching.
 - **Efficiency**: Cuts redundant Firestore reads by 80%, doubling UI navigation speed.
-- **Smart Features**: Features Ciao AI, a chatbot automating 150+ queries, and a real-time contact form with unlimited submissions.
+- **Smart Features**: Features Ciao AI, a chatbot automating 3000+ queries per day, and a real-time contact form with unlimited submissions.
 
 This project is my brainchild, built for the SRU Coding Club and hosted on my personal GitHub to share the journey and inspire others.
 
