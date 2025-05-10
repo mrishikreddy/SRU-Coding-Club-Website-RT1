@@ -11,7 +11,6 @@ This is a full-stack web application built to empower the SRU coding community. 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Note on Code Removal](#note-on-code-removal)
-- [Screenshots](#screenshots)
 - [Acknowledgments](#acknowledgments)
 
 ## About the Project
@@ -144,13 +143,6 @@ Want to run this locally? Here’s how:
 
 ## Note on Code Removal
 **Heads up**: Some code has been intentionally removed from this repo for security and copyright reasons. This version is here to showcase how the SRU Coding Club operates. For the full codebase, contact me (Rishik) via email or the contact form!
-
-## Screenshots
-- Login Page: ![Login Page](https://github.com/mrishikreddy/SRU-Coding-Club-Website-RT1/blob/f4c49ede29f89a10cd2a54d3764967f5810e1810/src/app/screenshots/LoginPage.png)
-- Homepage (Original Site): ![Home Page Original](https://github.com/mrishikreddy/SRU-Coding-Club-Website-RT1/blob/f4c49ede29f89a10cd2a54d3764967f5810e1810/src/app/screenshots/homePage1.png)
-- Homepage (Demo Site): ![Home Page Demo](https://github.com/mrishikreddy/SRU-Coding-Club-Website-RT1/blob/f4c49ede29f89a10cd2a54d3764967f5810e1810/src/app/screenshots/homePage2.png)
-- Ciao AI Chatbot: ![AI Chatbot](https://github.com/mrishikreddy/SRU-Coding-Club-Website-RT1/blob/f4c49ede29f89a10cd2a54d3764967f5810e1810/src/app/screenshots/AI.png)
-- Contact Page: ![Contact Page](https://github.com/mrishikreddy/SRU-Coding-Club-Website-RT1/blob/f4c49ede29f89a10cd2a54d3764967f5810e1810/src/app/screenshots/contactForm.png)
 
 ## Acknowledgments
 - Thanks to the SRU Coding Club community for inspiration and support.
