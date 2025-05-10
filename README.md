@@ -146,7 +146,6 @@ Want to run this locally? Here’s how:
 **Heads up**: Some code has been intentionally removed from this repo for security and copyright reasons. This version is here to showcase how the SRU Coding Club operates. For the full codebase, contact me (Rishik) via email or the contact form!
 
 ## Screenshots
-*(Add screenshots here to visually showcase the website, e.g., homepage, admin dashboard, chatbot interface. You can upload images to the repo and link them like this:)*
 - Homepage: `![Homepage](screenshots/homepage.png)`
 - Ciao AI Chatbot: `![Chatbot](screenshots/chatbot.png)`
 
