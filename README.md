@@ -2,6 +2,10 @@
 
 This is a full-stack web application built to empower the SRU coding community. Designed with modern tools like Next.js, React.js, Firebase, JavaScript, and Generative AI, it supports over 10,000 users with a fast, secure, and feature-rich experience. Whether you're a student, a developer, or just curious, this README will guide you through the project’s purpose, features, setup, and more.
 
+## Live Links
+- **Original Link** (SRU students only): [srucodingclub.live](https://www.srucodingclub.live/)
+- **Guest Link** (open to all): [rtsrucc-demo-web.vercel.app](https://rtsrucc-demo-web.vercel.app/)
+
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Features](#features)
@@ -19,8 +23,6 @@ The SRU Coding Club Website is a dynamic platform created to connect students, h
 - **Speed**: Achieves load times under 200ms with optimized Firestore reads and localStorage caching.
 - **Efficiency**: Cuts redundant Firestore reads by 80%, doubling UI navigation speed.
 - **Smart Features**: Features Ciao AI, a chatbot automating 3000+ queries per day, and a real-time contact form with unlimited submissions.
-
-This project is my brainchild, built for the SRU Coding Club and hosted on my personal GitHub to share the journey and inspire others.
 
 ## Features
 Here’s a rundown of what the SRU Coding Club Website offers:
@@ -60,10 +62,6 @@ Accessible via a hamburger menu on the homepage:
 - **AI**: Generative AI (powers Ciao AI chatbot)
 - **APIs**: Custom-built for points, user management, exam details, and feedback
 - **Optimization**: localStorage caching, indexed Firestore design
-
-## Live Links
-- **Original Link** (SRU students only): [srucodingclub.live](https://www.srucodingclub.live/)
-- **Guest Link** (open to all): [rtsrucc-demo-web.vercel.app](https://rtsrucc-demo-web.vercel.app/)
 
 ## Project Structure
 Here’s how the codebase is organized:
