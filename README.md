@@ -3,7 +3,7 @@
 This is a full-stack web application built to empower the SRU coding community. Designed with modern tools like Next.js, React.js, Firebase, JavaScript, and Generative AI, it supports over 10,000 users with a fast, secure, and feature-rich experience. Whether you're a student, a developer, or just curious, this README will guide you through the project’s purpose, features, setup, and more.
 
 - **Live Project Original Link** (SRU students only): [srucodingclub.live](https://www.srucodingclub.live/)
-- **Live Project Guest Link** (open to all): [rtsrucc-demo-web.vercel.app](https://rtsrucc-demo-web.vercel.app/)
+- **Live Project Guest Link** (open to all): [rtsrucc-demo.vercel.app](https://rtsrucc-demo.vercel.app/)
 
 ## Table of Contents
 - [About the Project](#about-the-project)
