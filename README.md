@@ -104,7 +104,7 @@ Here’s how the codebase is organized:
 Want to run this locally? Here’s how:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/sru-coding-club-website.git
+   git clone https://github.com/mrishikreddy/sru-coding-club-website.git
    cd sru-coding-club-website
    ```
 2. **Install dependencies**:
